@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.nexo_secret
+instance/*
+!instance/.gitkeep
+uploads/*
+!uploads/.gitkeep
+backups/*
+!backups/.gitkeep
+*.db
